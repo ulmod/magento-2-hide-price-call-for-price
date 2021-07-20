@@ -9,7 +9,7 @@ With Magento 2 Hide Price & Call For Price, you can combine "hide price" and "ca
 
 ## Key Features
 
-* Ability to choose what to display on highlight priority: "Hide Price" or "Call For Price" priority
+* Ability to choose what to display on highlight priority: "Hide Price" or "Call For Price" 
 * Ability to restrict "Hide Price" and "Call For Price" display single/specific customer groups, category, and product
 * Support popup form to collect buyers' requests. * Ability to defines the popup title & short note, show/hide product name, image, and SKU on the popup form
 * Ability to add an unlimited number of additional fields to the popup form,. Support "checkbox","text" and "text area" fields types
