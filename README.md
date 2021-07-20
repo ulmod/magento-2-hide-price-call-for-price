@@ -2,7 +2,7 @@
 
 [Magento 2 Hide Price & Call For Price](https://www.ulmod.com/magento-2-call-for-price-extension.html) is a Magento 2 extension that allows you to replace "Price" and "Add To Cart" with customizable buttons, text, or custom images. Allows buyers to request a price for some of your products.
 
-With Magento 2 Hide Price & Call For Price, you can combine the "hide price" and "call for price" features in one. The "hide price" feature allows you to take full control over the price display and add to cart functionality. The "Call For Price" feature allows your buyers to request the price for some of your products, and negotiate the price privately and sensitively
+With Magento 2 Hide Price & Call For Price, you can combine the "hide price" and "call for price" features in one. The "hide price" feature allows you to take full control over the price display and add to cart functionality. The "Call For Price" feature allows your buyers to request the price for some of your products, and negotiate the price privately.
 
 
 <a href="https://www.ulmod.com/magento-2-call-for-price-extension.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
